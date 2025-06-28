@@ -1,0 +1,17 @@
+    .h1.larg{
+      font-size:x-large;
+    }
+    .h2.normal{
+      font-size: medium;
+    }
+    .h3.small{
+      font-size: small;
+    }
+    .p { font-style: italic; font-weight: bold; 
+    }
+    .p.bold {
+      font-weight: bold;
+    }
+    .p.italic {
+      font-style: italic;
+    }
